@@ -8,16 +8,17 @@ import "./index.css";
 //import MyApp from "./04-passStateDataToChild";
 //import MyApp from "./05-passCallBackAsProps";
 //import MyComponent from "./06-keydownHandleEvent";
-import MagicEightBall from "./07-javascriptInRenderMethod";
+//import MagicEightBall from "./07-javascriptInRenderMethod";
 //import CheckUserAge from "./08-ternarryConditionButons";
 //import GameOfChance from "./09-renderConditionallyFromProps";
 //import MyToDoList from "/home/minzo/Documents/Mes codes/freecodecamp.org/Front End developement libraries/certification projects/10-array.mapToDynamicalyRender.js";
+import MainApp from "./react markdown/mainApp";
 import reportWebVitals from "./reportWebVitals";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <MagicEightBall />
+    <MainApp />
   </React.StrictMode>
 );
 
