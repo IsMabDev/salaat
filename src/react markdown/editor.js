@@ -11,12 +11,15 @@ class Editor extends React.Component {
       <div className={styles.editorContainer}>
         <h1 id={styles["childTitle"]}>Hello this is the Editor!</h1>
         <textarea
+          type="text"
           className="form-control"
           onChange={this.props.handleChange}
-          id={styles["editor-textArea"]}
-          placeholder={this.props.input}
+          id={styles["editor"]}
+          // placeholder={this.props.input}
           rows="10"
-        ></textarea>
+        >
+          {this.props.input}
+        </textarea>
       </div>
     );
   }

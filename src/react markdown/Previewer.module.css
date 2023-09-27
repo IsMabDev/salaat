@@ -1,7 +1,46 @@
-.previewerContainer {
-  width: 70%;
+#preview {
+  /* display: inline-block; */
+  width: 70vw;
   margin: 0 auto;
+  background-color: white;
+  min-height: 20%;
+  height: auto;
+  resize: both;
+  border: 5px solid;
+  /* overflow: auto; */
 }
+.previewerMarked {
+  width: 100%;
+  height: 40 vh;
+  /* max-height: 40vh;
+  min-height: 30vh; */
+  background-color: white;
+  /* overflow-y: auto;
+  overflow-x: clip; */
+
+  font-size: small;
+}
+.previewerMarked1 {
+}
+table {
+  border-collapse: collapse;
+}
+th,
+td {
+  border: 1px solid #000;
+  padding: 5px;
+}
+
+img {
+  width: 30vh;
+}
+
 #childTitle {
+  margin: 0 auto;
   color: red;
+}
+#childTitle1 {
+  background-color: antiquewhite;
+  margin: 0 auto;
+  /* width: 70%; */
 }
