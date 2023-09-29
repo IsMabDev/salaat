@@ -5,12 +5,7 @@ import { marked } from "marked";
 
 class Previewer extends React.Component {
   markedString = () => {
-    const option = {
-      gfm: true,
-      breaks: true,
-    };
-    return marked(this.props.input, option);
-    //.replace(/(\n)/g, " $1 <br> \n");
+    return marked(this.props.input);
     // .replace(/\n/g, "<br> \n");
   };
   render() {

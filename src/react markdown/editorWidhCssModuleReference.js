@@ -9,12 +9,12 @@ class Editor extends React.Component {
     console.log(this.props.input);
     return (
       <div className={styles.editorContainer}>
-        {/* <h1 id={styles["childTitle"]}>Hello this is the Editor!</h1> */}
+        <h1 id={styles["childTitle"]}>Hello this is the Editor!</h1>
         <textarea
           type="text"
           className="form-control"
           onChange={this.props.handleChange}
-          id="editor"
+          id={styles["editor"]}
           // placeholder={this.props.input}
           rows="10"
         >
