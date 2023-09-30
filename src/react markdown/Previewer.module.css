@@ -20,7 +20,9 @@
 
   font-size: small;
 }
-.previewerMarked1 {
+.previewHide {
+  display: none;
+  background-color: red;
 }
 table {
   border-collapse: collapse;
