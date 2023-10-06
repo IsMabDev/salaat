@@ -13,13 +13,14 @@ import "./index.css";
 //import GameOfChance from "./09-renderConditionallyFromProps";
 //import MyToDoList from "/home/minzo/Documents/Mes codes/freecodecamp.org/Front End developement libraries/certification projects/10-array.mapToDynamicalyRender.js";
 //import MainApp from "./react markdown/mainApp";
-import MainDrum from "./drum-machine/mainAppDrum";
+//import MainDrum from "./drum-machine/mainAppDrum";
+import SalaatMain from "./salaat/salaatMain";
 import reportWebVitals from "./reportWebVitals";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <MainDrum />
+    <SalaatMain />
   </React.StrictMode>
 );
 
