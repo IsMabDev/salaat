@@ -1,6 +1,6 @@
 {
-  "homepage": "https://MabroukIssam.github.io/reactprojects",
-  "name": "react_projects",
+  "homepage": "https://MabroukIssam.github.io/MyDrumMachine",
+  "name": "My_Drum_Machine",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
