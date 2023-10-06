@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MabroukIssam/salaat.git/static/css/main.e6c13ad2.css",
+    "main.js": "/MabroukIssam/salaat.git/static/js/main.30fd836e.js",
+    "static/js/787.ba9387ac.chunk.js": "/MabroukIssam/salaat.git/static/js/787.ba9387ac.chunk.js",
+    "index.html": "/MabroukIssam/salaat.git/index.html",
+    "main.e6c13ad2.css.map": "/MabroukIssam/salaat.git/static/css/main.e6c13ad2.css.map",
+    "main.30fd836e.js.map": "/MabroukIssam/salaat.git/static/js/main.30fd836e.js.map",
+    "787.ba9387ac.chunk.js.map": "/MabroukIssam/salaat.git/static/js/787.ba9387ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.30fd836e.js"
+  ]
+}
