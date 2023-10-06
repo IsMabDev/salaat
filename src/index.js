@@ -12,13 +12,14 @@ import "./index.css";
 //import CheckUserAge from "./08-ternarryConditionButons";
 //import GameOfChance from "./09-renderConditionallyFromProps";
 //import MyToDoList from "/home/minzo/Documents/Mes codes/freecodecamp.org/Front End developement libraries/certification projects/10-array.mapToDynamicalyRender.js";
-import MainApp from "./react markdown/mainApp";
+//import MainApp from "./react markdown/mainApp";
+import MainDrum from "./drum-machine/mainAppDrum";
 import reportWebVitals from "./reportWebVitals";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <MainApp />
+    <MainDrum />
   </React.StrictMode>
 );
 
