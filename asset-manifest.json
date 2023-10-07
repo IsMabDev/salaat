@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MabroukIssam/salaat/static/css/main.e6c13ad2.css",
-    "main.js": "/MabroukIssam/salaat/static/js/main.5dcd2c89.js",
-    "static/js/787.ba9387ac.chunk.js": "/MabroukIssam/salaat/static/js/787.ba9387ac.chunk.js",
-    "index.html": "/MabroukIssam/salaat/index.html",
-    "main.e6c13ad2.css.map": "/MabroukIssam/salaat/static/css/main.e6c13ad2.css.map",
-    "main.5dcd2c89.js.map": "/MabroukIssam/salaat/static/js/main.5dcd2c89.js.map",
-    "787.ba9387ac.chunk.js.map": "/MabroukIssam/salaat/static/js/787.ba9387ac.chunk.js.map"
+    "main.css": "/salaat/static/css/main.e6c13ad2.css",
+    "main.js": "/salaat/static/js/main.43a4e0f0.js",
+    "static/js/787.ba9387ac.chunk.js": "/salaat/static/js/787.ba9387ac.chunk.js",
+    "index.html": "/salaat/index.html",
+    "main.e6c13ad2.css.map": "/salaat/static/css/main.e6c13ad2.css.map",
+    "main.43a4e0f0.js.map": "/salaat/static/js/main.43a4e0f0.js.map",
+    "787.ba9387ac.chunk.js.map": "/salaat/static/js/787.ba9387ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.5dcd2c89.js"
+    "static/js/main.43a4e0f0.js"
   ]
 }
